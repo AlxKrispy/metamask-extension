@@ -101,7 +101,7 @@
     "simple-get": "^4.0.1"
   },
   "dependencies": {
-    "3box": "^1.10.2",
+    "3box": "^1.20.0",
     "@babel/runtime": "^7.5.5",
     "@download/blockies": "^1.0.3",
     "@ensdomains/content-hash": "^2.5.6",
@@ -126,7 +126,7 @@
     "@metamask/obs-store": "^5.0.0",
     "@metamask/post-message-stream": "^4.0.0",
     "@metamask/providers": "^8.1.1",
-    "@metamask/rpc-methods": "^0.10.7",
+    "@metamask/rpc-methods": "^0.25.0",
     "@metamask/slip44": "^2.0.0",
     "@metamask/smart-transactions-controller": "^1.10.0",
     "@metamask/snap-controllers": "^0.10.7",
@@ -194,7 +194,7 @@
     "pify": "^5.0.0",
     "promise-to-callback": "^1.0.0",
     "prop-types": "^15.6.1",
-    "pubnub": "4.27.3",
+    "pubnub": "7.3.0",
     "pump": "^3.0.0",
     "punycode": "^2.1.1",
     "qrcode-generator": "1.4.1",
